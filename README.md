@@ -165,9 +165,3 @@ Some possible improvements for the project include:
 * Improve the prediction threshold instead of relying only on the default 0.5 threshold
 * Deploy the trained model as a web application
 
-## Author
-
-**Akankhya Khadanga**
-
-B.Tech Computer Science Engineering
-Data Science & Machine Learning
