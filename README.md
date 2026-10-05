@@ -1,4 +1,4 @@
-# Credit Card Customer Churn Prediction
+# Credit Card Customer Churn Prediction(classification based)
 
 A deep learning project that uses customer information and banking-related attributes to predict whether a customer is likely to leave a bank.
 
